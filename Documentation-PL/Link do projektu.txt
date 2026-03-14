@@ -1,0 +1,10 @@
+Należy pobrać projekt z linku:
+
+-------------------------------
+https://github.com/Kamiloso/BrickBreaker/releases/tag/Release-1.0
+-------------------------------
+
+- Plik "Brick-Breaker-Win32-v.1.0.zip" to wyeksportowana gra, którą można uruchomić na systemie Windows.
+
+- Plik "Source code.zip" to projekt Visual Studio, który zgodnie z instrukcją w dokumentacji
+projektu można uruchomić i użyć do samodzielnej kompilacji gry.
